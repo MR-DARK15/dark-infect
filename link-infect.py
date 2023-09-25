@@ -25,7 +25,6 @@ print("")
 name = input(Fore.LIGHTGREEN_EX+"Select Option: ")
 print("")
 sleep(2)
-system("clear")
 print("")
   
 if name == "1":
