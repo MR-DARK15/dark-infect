@@ -23,7 +23,6 @@ print(Fore.LIGHTGREEN_EX+"""
 """)
 print("")
 name = input(Fore.LIGHTGREEN_EX+"Select Option: ")
-print("")
 sleep(2)
 print("")
   
@@ -53,11 +52,9 @@ if name == "3":
   exit()
   
 if name == "4":
-  print("")
   print(Fore.LIGHTYELLOW_EX+"Telegram"+Fore.LIGHTRED_EX+"-: "+Fore.LIGHTCYAN_EX+"https://t.me/name_Mr_dark")
   
 if name == "5":
-  print("")
   print(Fore.LIGHTYELLOW_EX+"Telegram chanell"+Fore.LIGHTRED_EX+"-: "+Fore.LIGHTCYAN_EX+"https://t.me/MR_DARK_Teem")
   
 if name == "00":
