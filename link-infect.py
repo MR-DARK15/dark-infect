@@ -53,9 +53,11 @@ if name == "3":
   
 if name == "4":
   print(Fore.LIGHTYELLOW_EX+"Telegram"+Fore.LIGHTRED_EX+"-: "+Fore.LIGHTCYAN_EX+"https://t.me/name_Mr_dark")
+  print("")
   
 if name == "5":
   print(Fore.LIGHTYELLOW_EX+"Telegram chanell"+Fore.LIGHTRED_EX+"-: "+Fore.LIGHTCYAN_EX+"https://t.me/MR_DARK_Teem")
+  print("")
   
 if name == "00":
   exit()
